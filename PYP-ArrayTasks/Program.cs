@@ -29,9 +29,9 @@ namespace PYP_ArrayTasks
             //PrintTwoArrayElement(arr1, arr2);
 
             //Task-6
-            int[] arr1 = { 1, 2, 5, 7, 8, 10 };
-            int[] arr2 = { 5, 7, 8, 9, 10 };
-            DifferentNumberArray(arr1, arr2);
+            //int[] arr1 = { 1, 2, 5, 7, 8, 10 };
+            //int[] arr2 = { 5, 7, 8, 9, 10 };
+            //DifferentNumberArray(arr1, arr2);
         }
         //1) bir dizi içerisinde bir eleman birden fazla olup olmadığını kontrol eden bir kod bloğu
         static bool CheckRepeatItemArray(params int[] arr) //4,3,3,2,5
@@ -119,7 +119,11 @@ namespace PYP_ArrayTasks
         {
             int[] sameArr = Array.FindAll(arr1, x => Array.Exists(arr2, y => x == y));
 
-            int[] differentArr = Array.FindAll(arr1, x => !Array.Exists(arr2, y => x == y && x != y));
+            int[] differentArr = Array.FindAll(arr1, x => !Array.Exists(arr2, y => x == y));
+            foreach (var item in sameArr)
+            {
+                Console.WriteLine(item);
+            }
             foreach (var item in differentArr)
             {
                 Console.WriteLine(item);

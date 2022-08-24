@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\PYP-ArrayTasks\PYP-ArrayTasks\bin\Debug\net5.0\PYP-ArrayTasks.exe
+C:\Users\hp\Desktop\PYP-ArrayTasks\PYP-ArrayTasks\bin\Debug\net5.0\PYP-ArrayTasks.deps.json
+C:\Users\hp\Desktop\PYP-ArrayTasks\PYP-ArrayTasks\bin\Debug\net5.0\PYP-ArrayTasks.runtimeconfig.json
+C:\Users\hp\Desktop\PYP-ArrayTasks\PYP-ArrayTasks\bin\Debug\net5.0\PYP-ArrayTasks.runtimeconfig.dev.json
+C:\Users\hp\Desktop\PYP-ArrayTasks\PYP-ArrayTasks\bin\Debug\net5.0\PYP-ArrayTasks.dll
+C:\Users\hp\Desktop\PYP-ArrayTasks\PYP-ArrayTasks\bin\Debug\net5.0\ref\PYP-ArrayTasks.dll
+C:\Users\hp\Desktop\PYP-ArrayTasks\PYP-ArrayTasks\bin\Debug\net5.0\PYP-ArrayTasks.pdb
+C:\Users\hp\Desktop\PYP-ArrayTasks\PYP-ArrayTasks\obj\Debug\net5.0\PYP-ArrayTasks.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\PYP-ArrayTasks\PYP-ArrayTasks\obj\Debug\net5.0\PYP-ArrayTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\PYP-ArrayTasks\PYP-ArrayTasks\obj\Debug\net5.0\PYP-ArrayTasks.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\PYP-ArrayTasks\PYP-ArrayTasks\obj\Debug\net5.0\PYP-ArrayTasks.AssemblyInfo.cs
+C:\Users\hp\Desktop\PYP-ArrayTasks\PYP-ArrayTasks\obj\Debug\net5.0\PYP-ArrayTasks.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\PYP-ArrayTasks\PYP-ArrayTasks\obj\Debug\net5.0\PYP-ArrayTasks.dll
+C:\Users\hp\Desktop\PYP-ArrayTasks\PYP-ArrayTasks\obj\Debug\net5.0\ref\PYP-ArrayTasks.dll
+C:\Users\hp\Desktop\PYP-ArrayTasks\PYP-ArrayTasks\obj\Debug\net5.0\PYP-ArrayTasks.pdb
+C:\Users\hp\Desktop\PYP-ArrayTasks\PYP-ArrayTasks\obj\Debug\net5.0\PYP-ArrayTasks.genruntimeconfig.cache
